@@ -21,5 +21,6 @@ We use different containers, font styles and images, with additional effects suc
 
 ## video of the "hover reveal" or "hover-triggered visibility" effect.
 
-[🎥 Ver video](images/video.WEBM)
+[🎥 Ver video](https://github.com/yulimarin90/Pagina_de_ropa/blob/main/images/video.webm?raw=true)
+
 
