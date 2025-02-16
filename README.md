@@ -11,4 +11,13 @@ We use different containers, font styles and images, with additional effects suc
 
 ## Below are photos of the final design
 
-![](images/inicio1.png)
+![](images/inicio1.PNG)
+![](images/inicio2.PNG)
+![](images/quienessomos1.PNG)
+![](images/quienessomos2.PNG)
+![](images/quienessomos3.PNG)
+![](images/quienessomos4.PNG)
+![](images/contactopag.PNG)
+
+## video of the "hover reveal" or "hover-triggered visibility" effect.
+
